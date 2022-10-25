@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    height: auto;
+    width: auto;
+    display: block;
+    background-color: blanchedalmond;
+
+    margin: 0px auto;
+    border: 5px solid red;
+    padding: 20px;
+}
